@@ -8,10 +8,6 @@ this is a SQL app with Java language and the GUI made with JavaFX
 
 Install my-project with npm
 
-```bash
-  npm install my-project
-  cd my-project
-```
 install JDK8 from here
 https://www.oracle.com/eg/java/technologies/javase/javase8-archive-downloads.html 
 
